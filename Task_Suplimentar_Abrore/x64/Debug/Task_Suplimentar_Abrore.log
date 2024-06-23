@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\Users\Gucci\Desktop\SDD\Task_Suplimentar_Abrore\Source.c(44,35): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Gucci\Desktop\SDD\Task_Suplimentar_Abrore\Source.c(45,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Gucci\Desktop\SDD\Task_Suplimentar_Abrore\Source.c(226,13): warning C4013: 'stergereNod' undefined; assuming extern returning int
+C:\Users\Gucci\Desktop\SDD\Task_Suplimentar_Abrore\Source.c(226,37): warning C4047: '=': 'NodArbore *' differs in levels of indirection from 'int'
+C:\Users\Gucci\Desktop\SDD\Task_Suplimentar_Abrore\Source.c(123): warning C4715: 'parcurgerePreOrdineptID': not all control paths return a value
+Source.obj : error LNK2019: unresolved external symbol stergereNod referenced in function main
+C:\Users\Gucci\Desktop\SDD\Task_Suplimentar_Abrore\x64\Debug\Task_Suplimentar_Abrore.exe : fatal error LNK1120: 1 unresolved externals
