@@ -1,0 +1,4 @@
+﻿  Structura_ciocolata.c
+C:\Users\Gucci\Desktop\SDD\structura_ciocolata\structura_ciocolata\Structura_ciocolata.c(246,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Gucci\Desktop\SDD\structura_ciocolata\structura_ciocolata\Structura_ciocolata.c(247,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  structura_ciocolata.vcxproj -> C:\Users\Gucci\Desktop\SDD\structura_ciocolata\x64\Debug\structura_ciocolata.exe
