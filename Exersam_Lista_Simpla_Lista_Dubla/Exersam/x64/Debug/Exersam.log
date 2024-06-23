@@ -1,0 +1,5 @@
+﻿  Exersam.c
+C:\Users\Gucci\Desktop\SDD\Exersam\Exersam\Exersam.c(17,38): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Gucci\Desktop\SDD\Exersam\Exersam\Exersam.c(18,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Gucci\Desktop\SDD\Exersam\Exersam\Exersam.c(162,24): warning C4013: 'strcmp' undefined; assuming extern returning int
+  Exersam.vcxproj -> C:\Users\Gucci\Desktop\SDD\Exersam\x64\Debug\Exersam.exe
