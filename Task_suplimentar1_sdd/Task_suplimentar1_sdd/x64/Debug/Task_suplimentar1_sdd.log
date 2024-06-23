@@ -1,0 +1,7 @@
+﻿  task_suplimentar1_sdd.c
+C:\Users\Gucci\Desktop\SDD\Task_suplimentar1_sdd\Task_suplimentar1_sdd\task_suplimentar1_sdd.c(29,25): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Gucci\Desktop\SDD\Task_suplimentar1_sdd\Task_suplimentar1_sdd\task_suplimentar1_sdd.c(30,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Gucci\Desktop\SDD\Task_suplimentar1_sdd\Task_suplimentar1_sdd\task_suplimentar1_sdd.c(354,20): warning C4013: 'numarDeZerouri' undefined; assuming extern returning int
+C:\Users\Gucci\Desktop\SDD\Task_suplimentar1_sdd\Task_suplimentar1_sdd\task_suplimentar1_sdd.c(428,65): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+C:\Users\Gucci\Desktop\SDD\Task_suplimentar1_sdd\Task_suplimentar1_sdd\task_suplimentar1_sdd.c(428,48): warning C4024: 'ordonareMatrice': different types for formal and actual parameter 3
+  Task_suplimentar1_sdd.vcxproj -> C:\Users\Gucci\Desktop\SDD\Task_suplimentar1_sdd\x64\Debug\Task_suplimentar1_sdd.exe
